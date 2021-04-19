@@ -1,0 +1,20 @@
+nav {
+    padding: 1rem;
+}
+
+.links {
+    text-decoration: none;
+    color: #444;
+}
+
+.links:active {
+    color: #4f4;
+    text-shadow: 0px 0px 1px green;
+
+}
+
+.links:hover {
+    color: #444;
+    text-shadow: 0px 0px 1px navy;
+
+}

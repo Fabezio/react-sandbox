@@ -5,7 +5,7 @@ function Navbar () {
     // const {}
     return (
       <span>
-        <a className='links' href='#' key={i}>
+        <a className='links' href='' key={i}>
           {label}
         </a>
         {i < links.length - 1 && ' | '}
